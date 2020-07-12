@@ -3,7 +3,7 @@ Give it a search URL, it will give you the emails of the profiles (if they have 
 
 ## Installation (Windows)
 ### 0- Prerequisits
-Download [Google Chrome](https://www.googleadservices.com/chrome) if you don't have it already.
+Download [Google Chrome](https://www.google.com/chrome/) if you don't have it already.
 
 ### 1- Download the *Linkedin Email Scraper* (exe) from [release](https://github.com/Ser5io/Linkedin-Email-Scraper/releases/tag/v1.0)
 ### 2- Open command prompt and enter this command
